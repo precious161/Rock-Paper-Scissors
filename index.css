@@ -1,0 +1,11 @@
+.btns {
+  display: block;
+  marign: 0 auto;
+}
+.rock {
+  background-color: pink;
+  cursor: pointer;
+}
+.rock:active {
+  background-color: blue;
+}
